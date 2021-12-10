@@ -9,39 +9,15 @@ body {
     margin-top: 10px;
     letter-spacing: 5px;
 }
-.header_main p {
-    margin: 0%;
-    letter-spacing: 5px;
-    margin-bottom: 2px;
-}
 
 .header_main {
     text-align: left;
-
-}
-
-.list {
-    list-style: none;
-}
-
-.list li {
-    width: 160px;
-    text-align: end;
-    display: inline-block;
-    font-weight: bold;
-}
-.list li a {
-    text-decoration: none;
-    color: black;
-    letter-spacing: 5px;
-    font-weight: bold;
 }
 
 .header_contents {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 }
 
 header {
@@ -53,11 +29,4 @@ header {
     height: 30vw;
     margin-bottom: 50px;
 }
-
-.header_photo {
-    height: 30vw;
-    width: 100%;
-    object-fit: cover;
-}
-
 
